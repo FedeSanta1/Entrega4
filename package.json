@@ -268,5 +268,13 @@
     "yargs-parser": "^20.2.9",
     "yargs": "^13.3.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedeSanta1/Entrega4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FedeSanta1/Entrega4/issues"
+  },
+  "homepage": "https://github.com/FedeSanta1/Entrega4#readme",
   "description": ""
 }
